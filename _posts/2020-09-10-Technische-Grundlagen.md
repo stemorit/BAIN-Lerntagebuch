@@ -22,8 +22,10 @@ Neben dem Einrichten der Unix Umgebung und dem vorstellen haben wir die sehr int
 
 Die Unix-Shell wird benötigt zur administration von Linux Servern. Die meisten Linuxserver werden nicht mit einer grafischen Oberfläche installiert. Das liegt vor allem daran, weil bei grafischen Oberflächen Sicherheitslücken enthalten sein können. Es dient also zur IT-Sicherheit. Wenn kiene grafischen Oberflächen da sind können auch keine Sicherheitslücken auf der grafischen Oberfläche enthalten sein. Die Unix Shell dient nicht nur zur Systemkonfiguration sondern kann auch zur Automatisierung von kleineren Aufgaben verwendet werden. 
 
-
 [Navigating the filesystem](https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem/index.html) 
+In der Library Carpentry von der UNIX Shell "Navigating the filesystem" wird gezeigt wie man sich im Dateisystem in der Shell bewegt. Es wird gezeigt wie man Shell Kommandos benutzt um mit Verzeichnisse und Dateien zu arbeiten und um Dateien zu finden und zu verändern. Alles angefangen mit den Basics. 
+Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in den Dateien ich mich gerade befinde. 
+Hier Screenshot einfügen : 
 
 
 [Workin with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
