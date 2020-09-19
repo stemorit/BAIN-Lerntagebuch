@@ -26,13 +26,13 @@ Die Unix-Shell wird benötigt zur administration von Linux Servern. Die meisten 
 
 In der Library Carpentry von der UNIX Shell "Navigating the filesystem" wird gezeigt wie man sich im Dateisystem in der Shell bewegt. Es wird gezeigt wie man Shell Kommandos benutzt um mit Verzeichnisse und Dateien zu arbeiten und um Dateien zu finden und zu verändern. Alles angefangen mit den Basics. 
 Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in den Dateien ich mich gerade befinde. 
+
 <img alt="pwd" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot%202020-09-19%20194517.png?raw=true" width="30%"/>
 
 Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls" anzusehen in dem ich mich gerade befinde. Unter anderem bin habe ich auch mit "cd Desktop" von meinem Home Verzeichnis auf den Desktop gewechselt und "pwd" wieder geschaut ob der Wechsel funktioniert hat.
 
 <img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="50%"/>
+Um jetzt aber niemanden viel länger mit dieses Basics zu langweilen, werde ich noch kurz erläutern was im Tutorial von "Working with files and directories" gezeigt wird und freue mich dann, auf weitere spannede Inhalte, welche natürlich im nächsten Blogpost auseinandergenommen werden.
 
 
-
-
-[Workin with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
+[Working with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
