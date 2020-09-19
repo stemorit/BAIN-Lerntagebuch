@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Leistungsnachweis
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Willkommen zu meinem Blog
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Ich schreibe hier über meine Erfahrungen im Kurs Bibliotheks- und Archivinformatik. Viel Spass beim durchstöbern, lesen und bewerten.
