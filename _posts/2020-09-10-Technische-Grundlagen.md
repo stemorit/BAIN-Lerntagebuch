@@ -29,7 +29,7 @@ Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in 
 <img alt="pwd" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot%202020-09-19%20194517.png?raw=true" width="30%"/>
 
 Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls" anzusehen in dem ich mich gerade befinde. Unter anderem bin habe ich auch mit "cd Desktop" von meinem Home Verzeichnis auf den Desktop gewechselt und "pwd" wieder geschaut ob der Wechsel funktioniert hat.
-<img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="30%"/>
+<img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="50%"/>
 
 
 
