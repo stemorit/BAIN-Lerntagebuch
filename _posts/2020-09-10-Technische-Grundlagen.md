@@ -32,6 +32,7 @@ Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in 
 Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls" anzusehen in dem ich mich gerade befinde. Unter anderem bin habe ich auch mit "cd Desktop" von meinem Home Verzeichnis auf den Desktop gewechselt und "pwd" wieder geschaut ob der Wechsel funktioniert hat.
 
 <img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="50%"/>
+
 Um jetzt aber niemanden viel länger mit dieses Basics zu langweilen, werde ich noch kurz erläutern was im Tutorial von "Working with files and directories" gezeigt wird und freue mich dann, auf weitere spannede Inhalte, welche natürlich im nächsten Blogpost auseinandergenommen werden.
 
 
