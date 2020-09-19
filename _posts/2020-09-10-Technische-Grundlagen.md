@@ -34,8 +34,9 @@ Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls
 <img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="50%"/>
 
 
-Um jetzt aber niemanden viel länger mit dieses Basics zu langweilen, werde ich noch kurz erläutern was im Tutorial von "Working with files and directories" gezeigt wird und freue mich dann, auf weitere spannede Inhalte, welche natürlich im nächsten Blogpost auseinandergenommen werden.
-Edit: Wichtig anzumerken finde ich noch, dass man mit dem Befehl "q" wieder raus aus den "man" Anleitungen kommt, sonst kann man schnell mal dort verloren sein. Als Bespiel: "man ls" zeigt was der Befehl "ls" macht.
+Um jetzt aber niemanden viel länger mit dieses Basics zu langweilen, werde ich noch kurz erläutern was im Tutorial von "Working with files and directories" gezeigt wird und freue mich dann, auf weitere spannede Inhalte, welche natürlich im nächsten Blogpost auseinandergenommen werden. Dieser Blogpost wird sonst zu lange, weil die Einstiegshürden so gross waren.
+
+**Edit:** Wichtig anzumerken finde ich noch, dass man mit dem Befehl "q" wieder raus aus den "man" Anleitungen kommt, sonst kann man schnell mal dort verloren sein. Als Bespiel: "man ls" zeigt was der Befehl "ls" macht.
 Und hier noch ein Zitat von der Seite: "Knowing where you are in your directory structure is key to working with the shell"
 
 [Working with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
