@@ -14,11 +14,11 @@ Am nächsten Morgen früh meldetet sich Merr Meier aus der FHGR IT, ich musste d
 Jetzt bin ich bereit mit dem eigentlichen Lernstoff zu beginnen und freue mich darauf mich wieder richtig auf den kommenden Unterricht konzentrieren zu können.
 
 
-#**Ja was ist sonst noch passiert**
+**Ja was ist sonst noch passiert**
 
 Neben dem Einrichten der Unix Umgebung und dem vorstellen haben wir die sehr interessante CodiMD-Umgebung von GWDG kennengelernt. Das kannte ich vorher noch nicht und finde ich sehr spannend, vor allem für die Arbeit in Gruppen. In einem anderen Kurs (Projektkurs) haben wir (bzw. die Projektleitung) entschieden, die neu kennengelernte CodiMD-Umgebung als gemeinsame Arbeitsplattform zu verwenden. Schon alleine dafür hat sich der Kurs gelohnt. 
 
-##**Grundlagen der Unix Shell**
+**Grundlagen der Unix Shell**
 
 Die Unix-Shell wird benötigt zur administration von Linux Servern. Die meisten Linuxserver werden nicht mit einer grafischen Oberfläche installiert. Das liegt vor allem daran, weil bei grafischen Oberflächen Sicherheitslücken enthalten sein können. Es dient also zur IT-Sicherheit. Wenn kiene grafischen Oberflächen da sind können auch keine Sicherheitslücken auf der grafischen Oberfläche enthalten sein. Die Unix Shell dient nicht nur zur Systemkonfiguration sondern kann auch zur Automatisierung von kleineren Aufgaben verwendet werden. 
 
@@ -27,7 +27,9 @@ Die Unix-Shell wird benötigt zur administration von Linux Servern. Die meisten 
 In der Library Carpentry von der UNIX Shell "Navigating the filesystem" wird gezeigt wie man sich im Dateisystem in der Shell bewegt. Es wird gezeigt wie man Shell Kommandos benutzt um mit Verzeichnisse und Dateien zu arbeiten und um Dateien zu finden und zu verändern. Alles angefangen mit den Basics. 
 Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in den Dateien ich mich gerade befinde. 
 <img alt="pwd" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot%202020-09-19%20194517.png?raw=true" width="30%"/>
-Leider sieht man den Screeshot nicht auf der Webseite. Ich finde sicher noch heraus wie das funktioniert, dass ich das auch machen kann.
+
+Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls" anzusehen in dem ich mich gerade befinde. Unter anderem bin habe ich auch mit "cd Desktop" von meinem Home Verzeichnis auf den Desktop gewechselt und "pwd" wieder geschaut ob der Wechsel funktioniert hat.
+<img alt="Shell" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot2.png?raw=true" width="30%"/>
 
 
 
