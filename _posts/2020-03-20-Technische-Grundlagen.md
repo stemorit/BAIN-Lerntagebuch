@@ -1,6 +1,6 @@
 ---
-title: "Einführungsartikel"
-date: 2020-03-20
+title: "1 Technische Grundlagen "
+date: 2020-09-10
 ---
 
 
