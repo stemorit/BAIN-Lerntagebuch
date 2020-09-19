@@ -35,4 +35,8 @@ Weiter habe ich in diesem Tutorial gelernt den Inhalt des Verzeichnises mit "-ls
 Um jetzt aber niemanden viel länger mit dieses Basics zu langweilen, werde ich noch kurz erläutern was im Tutorial von "Working with files and directories" gezeigt wird und freue mich dann, auf weitere spannede Inhalte, welche natürlich im nächsten Blogpost auseinandergenommen werden.
 
 
+
 [Working with files and directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
+
+
+Offene Fragen gibt es Momentan noch keine.
