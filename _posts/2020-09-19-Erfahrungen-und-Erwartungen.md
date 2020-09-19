@@ -1,6 +1,6 @@
 ---
 title: "Erwartungen und Erfahrungen"
-date: 2020-09-10
+date: 2020-09-09
 ---
 
 Auf mich wartet das Modul Bibliotheks- und Archivinformatik. In diesem Modulnamen befinden sich drei eigenständige Wörter. Bibliothek, Archiv und Informatik. 
