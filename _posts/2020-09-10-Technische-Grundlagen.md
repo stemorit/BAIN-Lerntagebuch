@@ -26,7 +26,8 @@ Die Unix-Shell wird benötigt zur administration von Linux Servern. Die meisten 
 
 In der Library Carpentry von der UNIX Shell "Navigating the filesystem" wird gezeigt wie man sich im Dateisystem in der Shell bewegt. Es wird gezeigt wie man Shell Kommandos benutzt um mit Verzeichnisse und Dateien zu arbeiten und um Dateien zu finden und zu verändern. Alles angefangen mit den Basics. 
 Schon habe ich gelernt, dass ich mit dem Kommando *pwd* herausfinden kann wo in den Dateien ich mich gerade befinde. 
-<img alt="pwd" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot%202020-09-19%20194517.png" width="30%"/>
+<img alt="pwd" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Screenshot%202020-09-19%20194517.png?raw=true" width="30%"/>
+Leider sieht man den Screeshot nicht auf der Webseite. Ich finde sicher noch heraus wie das funktioniert, dass ich das auch machen kann.
 
 
 
