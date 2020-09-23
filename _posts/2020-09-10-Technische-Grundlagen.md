@@ -48,22 +48,39 @@ Diese Shell Kommandos wurden bis jetzt von mir gelernt und angewendet:
 Shell Kommandos
 
 pwd  --> In welchem Ordner befinde ich mich?
+
 ls --> Inhalt des Verzeichnisses als Liste aufzeigen
+
 ls -l --> Liste vom Inhalt mit mehr Informationen wie die Grösse der Dateien in Bytes, das Erstellungsdatum und den Dateinamen
+
 ls -lh --> selbe Liste wie «ls -l» aber mit Einheiten bei der Grösse der Dateien.
+
 cd Desktop --> Verzeichnis wechseln (Hier zum Desktop)
+
 man (bsp. man ls) --> Beschreibt was das Kommando «ls» macht
+
 q --> quit, damit kommt man aus der «man»-Hilfeansicht
+
 mkdir directory --> Erstellt ein neues Verzeichnis mit dem Namen «directory»
+
 cd .. --> geht im Verzeichnis eine Ebene höher
+
 cat directory.txt --> lesen des Textes der Datei directory.txt
+
 head directory.txt --> lesen des Kopfs der Datei directory.txt erste 10 Linien
+
 head -n 20 directory.txt --> Lesen der ersten 20 Zeilen.
+
 tail directory.txt --> lesen der letzten 10 Zeilen von der Datei directory.txt
+
 mv directory.txt file.txt --> umbenennen von directory.txt zu file.txt
+
 mv file.txt folder --> Dokument file.txt wird in den ordner folder verschoben
+
 cp file.txt file-backup.txt --> kopiert das Dokument file.txt als file-backup.txt
+
 history --> zeigt die letzten eingegebenen Kommandos auf
+
 rm file.txt --> löscht das Dokument file.txt
 
 
