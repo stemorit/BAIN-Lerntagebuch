@@ -43,9 +43,9 @@ Und hier noch ein Zitat von der Seite: "Knowing where you are in your directory 
 
 In der Library Carpentry von der UNIX Shell "Working with files and directories" werden diese Fragen geklärt: Wie kann ich Dateien und Verzeichnisse kopieren, verschieben und löschen? Wie kann ich Dateien lesen?
 
-Diese Shell Kommandos wurden bis jetzt von mir gelernt und angewendet:
+Diese Shell Kommandos wurden bis jetzt von mir aus beiden Links gelernt und angewendet:
 
-Shell Kommandos
+**Shell Kommandos**
 
 pwd  --> In welchem Ordner befinde ich mich?
 
@@ -82,6 +82,7 @@ cp file.txt file-backup.txt --> kopiert das Dokument file.txt als file-backup.tx
 history --> zeigt die letzten eingegebenen Kommandos auf
 
 rm file.txt --> löscht das Dokument file.txt
+
 
 
 Offene Fragen oder Probleme gibt es Momentan keine.
