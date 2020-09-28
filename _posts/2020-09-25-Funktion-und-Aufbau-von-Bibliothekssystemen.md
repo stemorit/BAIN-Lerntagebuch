@@ -5,9 +5,9 @@ date: 2020-09-25
 
 
 Bei der zweiten Lehreinheit ging es um diese drei Themen:
-1.	Kommentare zu Lerntagebüchern
-2.	Git
-3.	Funktion und Aufbau von Bibliothekssysteme Teil 1 von 2
+* Kommentare zu Lerntagebüchern
+* Git
+* Funktion und Aufbau von Bibliothekssysteme Teil 1 von 2
 Metadatenstandards in Bibliotheken (MARC21)
 Installation und Konfiguration von Koha
 
