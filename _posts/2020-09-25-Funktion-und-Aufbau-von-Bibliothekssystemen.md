@@ -7,9 +7,10 @@ date: 2020-09-25
 | -------------                       |---------------| 
 | Machine-Readable Cataloging         | Dublin Core | 
 | 1960                              | 1994     |  
-| bibliographisches Dateiformat welches verwendet wird, um bibliographische Daten zwischen verschiedenen Einrichtungen auszutauschen                        | Sammlung an standardisierten Konventionen für eine einfache Beschreibung von Dokumenten und anderen verwandten Objekten im Web mithilfe von bibliographischen Metadaten.      |  
+| bibliographisches Dateiformat welches verwendet wird, um bibliographische Daten zwischen verschiedenen Einrichtungen auszutauschen                        | Sammlung an standardisierten Konventionen für eine einfache Beschreibung von Dokumenten und anderen verwandten Objekten im Web mithilfe von bibliographischen Metadaten      | 
+|<img alt="MARC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/MARC21.png?raw=true" width="40%"/> | <img alt="DC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/DC.png?raw=true" width="40%"/>|
 
-
+https://www.forschungsdaten.info/themen/beschreiben-und-dokumentieren/bibliographische-metadaten/
 
 
 **Installation und Konfiguration von Koha**
