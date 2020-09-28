@@ -2,6 +2,20 @@
 title: "2 Funktion und Aufbau von Bibliothekssystemen"
 date: 2020-09-25
 ---
+
+
+Bei der zweiten Lehreinheit ging es um diese drei Themen:
+1.	Kommentare zu Lerntagebüchern
+2.	Git
+3.	Funktion und Aufbau von Bibliothekssysteme Teil 1 von 2
+Metadatenstandards in Bibliotheken (MARC21)
+Installation und Konfiguration von Koha
+
+Punkt eins und zwei finde ich für diesen Blog nicht so spannend, darum springe ich direkt zum, für mich interessantesten Thema, Funktion und Aufbau von Bibliothekssystemen. Es ist erst der erste Teil von zwei. Wir haben bis jetzt den Metadatenstandard MARC21 mit Dublin Core verglichen und wir haben Koha installiert und konfiguriert. 
+
+
+
+
 **MARC21 vs. Dublin Core**
 
 Wir haben eine Übung gemacht und uns die Unterschiede zwischen den Metastandards *MARC21* und *Dublin Core* angeschaut. In dieser Tabelle sind die Ergebisse aus der Vorlesung und noch ein paar Zusatzinformationen aus der Recherche festgehalten.
