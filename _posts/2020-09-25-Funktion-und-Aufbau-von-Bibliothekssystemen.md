@@ -9,9 +9,11 @@ date: 2020-09-25
 | 1960                              | 1994     |  
 | bibliographisches Dateiformat welches verwendet wird, um bibliographische Daten zwischen verschiedenen Einrichtungen auszutauschen                        | Sammlung an standardisierten Konventionen für eine einfache Beschreibung von Dokumenten und anderen verwandten Objekten im Web mithilfe von bibliographischen Metadaten      | 
 |<img alt="MARC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/MARC21.png?raw=true" width="80%"/> | <img alt="DC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/DC.png?raw=true" width="80%"/>|
+|xyz   |  xyz |
 
 https://www.forschungsdaten.info/themen/beschreiben-und-dokumentieren/bibliographische-metadaten/
-
+https://sru.swissbib.ch/sru/search/defaultdb?query=+dc.possessingInstitution+%3D+E27+AND+dc.title+%3D+open+access&operation=searchRetrieve&recordSchema=info%3Asrw%2Fschema%2F1%2Fmarcxml-v1.1-light&maximumRecords=10&startRecord=0&recordPacking=XML&availableDBs=defaultdb&sortKeys=Submit+query
+https://sru.swissbib.ch/sru/search/defaultdb?query=+dc.possessingInstitution+%3D+E27+AND+dc.title+%3D+open+access&operation=searchRetrieve&recordSchema=info%3Asru%2Fschema%2F1%2Fdc-v1.1-light&maximumRecords=10&startRecord=0&recordPacking=XML&availableDBs=defaultdb&sortKeys=Submit+query
 
 **Installation und Konfiguration von Koha**
 
