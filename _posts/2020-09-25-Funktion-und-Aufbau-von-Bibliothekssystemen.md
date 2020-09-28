@@ -3,6 +3,7 @@ title: "2 Funktion und Aufbau von Bibliothekssystemen"
 date: 2020-09-25
 ---
 **MARC21 vs. Dublin Core**
+
 Wir haben eine Übung gemacht und uns die Unterschiede zwischen den Metastandards *MARC21* und *Dublin Core* angeschaut. In dieser Tabelle sind die Ergebisse aus der Vorlesung und noch ein paar Zusatzinformationen aus der Recherche festgehalten.
 
 | MARC21                              | DC  | 
