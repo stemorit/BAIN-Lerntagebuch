@@ -25,6 +25,8 @@ Bild Dublin Core: [sru.swissbib.ch/Dublin Core](https://sru.swissbib.ch/sru/sear
 
 
 
+
+
 **Installation und Konfiguration von Koha**
 
 
