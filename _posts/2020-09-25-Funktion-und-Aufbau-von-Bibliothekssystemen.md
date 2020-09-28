@@ -3,11 +3,11 @@ title: "2 Funktion und Aufbau von Bibliothekssystemen"
 date: 2020-09-25
 ---
 
-| MARC21                              | Dublin Core   | 
+| MARC21                              | DC  | 
 | -------------                       |---------------| 
-| Machine-Readable Cataloging         | right-aligned | 
-| bluber                              | centered      |  
-| bluberblub                          | are neat      |  
+| Machine-Readable Cataloging         | Dublin Core | 
+| 1960                              | 1994     |  
+| bibliographisches Dateiformat welches verwendet wird, um bibliographische Daten zwischen verschiedenen Einrichtungen auszutauschen                        | Sammlung an standardisierten Konventionen für eine einfache Beschreibung von Dokumenten und anderen verwandten Objekten im Web mithilfe von bibliographischen Metadaten.      |  
 
 
 
