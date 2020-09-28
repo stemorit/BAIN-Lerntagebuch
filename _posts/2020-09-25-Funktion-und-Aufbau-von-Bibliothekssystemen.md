@@ -16,7 +16,9 @@ date: 2020-09-25
 | wird in Bibliothekssystemen genutzt | wird eher weniger in Bibliothekssystemen genutzt als MARC21|
 
 Quellen: [forschungsdaten.info](https://www.forschungsdaten.info/themen/beschreiben-und-dokumentieren/bibliographische-metadaten/), 2. Unterrichtslektion und Folien.
+
 Bild MARC21: [sru.swissbib.ch/MARC21](https://sru.swissbib.ch/sru/search/defaultdb?query=+dc.possessingInstitution+%3D+E27+AND+dc.title+%3D+open+access&operation=searchRetrieve&recordSchema=info%3Asrw%2Fschema%2F1%2Fmarcxml-v1.1-light&maximumRecords=10&startRecord=0&recordPacking=XML&availableDBs=defaultdb&sortKeys=Submit+query)
+
 Bild Dublin Core: [sru.swissbib.ch/Dublin Core](https://sru.swissbib.ch/sru/search/defaultdb?query=+dc.possessingInstitution+%3D+E27+AND+dc.title+%3D+open+access&operation=searchRetrieve&recordSchema=info%3Asru%2Fschema%2F1%2Fdc-v1.1-light&maximumRecords=10&startRecord=0&recordPacking=XML&availableDBs=defaultdb&sortKeys=Submit+query)
 
 
