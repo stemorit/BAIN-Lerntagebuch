@@ -11,10 +11,10 @@ Bei der zweiten Lehreinheit ging es um diese drei Themen:
 Metadatenstandards in Bibliotheken (MARC21)
 Installation und Konfiguration von Koha
 
-Punkt eins und zwei finde ich für diesen Blog nicht so spannend, darum springe ich direkt zum, für mich interessantesten Thema, Funktion und Aufbau von Bibliothekssystemen. Es ist erst der erste Teil von zwei. Wir haben bis jetzt den Metadatenstandard MARC21 mit Dublin Core verglichen und wir haben Koha installiert und konfiguriert. 
+Punkt eins und zwei finde ich für diesen Blog nicht so spannend, darum springe ich direkt zum, für mich interessantesten Thema, Funktion und Aufbau von Bibliothekssystemen. Es ist erst der erste Teil von zwei zu diesem spannenden Thema. Wir haben bis jetzt etwas zum Metadatenstandard MARC21 gelernt und ihn mit Dublin Core verglichen. Ausserdem haben wir Koha installiert und konfiguriert. 
 
-
-
+**Metadatenstandart MARC21**
+Wenn ich mal MARC21 Metadatenstandart in der Google Suche eingebe, komme ich auf diesen Link https://www.loc.gov/marc/bibliographic/bd024.html. Irgendwie kenne ich das vom Katalogisieren. Ist wohl kein Zufall, dass der Reiter im Aleph unter dem man Katalogisieren kann "MARC" heisst, das ist wohl doch kein beliebiger Männername. Es ist ziemlich cool, mal etwas von diesen "Informatikgeschichten" die wir im Unterricht haben, im Arbeitsalltag wiederzufinden. Vorher war das für mich immer so gaaaanz weit entfernt. Für mich waren Metadatenstandards immer nur komische Abkürzungen, die ich zwar kennen sollte, aber nicht wirklich etwas damit anfangen kann. Ich denke das war mein grösster Aha-Effekt in dieser Lehreinheit. Mehr technisches zu MARC21 ist im nächsten Kapitelchen zu finden.
 
 **MARC21 vs. Dublin Core**
 
