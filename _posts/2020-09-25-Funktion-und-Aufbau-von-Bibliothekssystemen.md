@@ -3,6 +3,14 @@ title: "2 Funktion und Aufbau von Bibliothekssystemen"
 date: 2020-09-25
 ---
 
+| MARC21        | Dublin Core   | 
+| ------------- |:-------------:| 
+| blub          | right-aligned | 
+| bluber        | centered      |  
+| bluberblub    | are neat      |  
+
+
+
 
 **Installation und Konfiguration von Koha**
 
