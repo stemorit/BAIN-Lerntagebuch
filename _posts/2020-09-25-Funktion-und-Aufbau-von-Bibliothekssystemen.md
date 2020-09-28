@@ -42,7 +42,7 @@ Bild Dublin Core: [sru.swissbib.ch/Dublin Core](https://sru.swissbib.ch/sru/sear
 
 
 
-#Installation und Konfiguration von Koha
+# Installation und Konfiguration von Koha
 
 
 Was ist Koha? Koha ist das erste freie und quelloffene Bibliothekssystem der Welt. Koha ist ein voll ausgestattetes, skalierbares Bibliotheksverwaltungssystem. Die Entwicklung wird von Bibliotheken unterschiedlicher Art und Größe, Freiwilligen und unterstützenden Unternehmen weltweit gesponsert [Quelle: koha-community.org](https://koha-community.org/).
