@@ -2,7 +2,11 @@
 title: "2 Funktion und Aufbau von Bibliothekssystemen"
 date: 2020-09-25
 ---
+
+
 **Installation und Konfiguration von Koha**
+
+
 Was ist Koha? Koha ist das erste freie und quelloffene Bibliothekssystem der Welt. Koha ist ein voll ausgestattetes, skalierbares Bibliotheksverwaltungssystem. Die Entwicklung wird von Bibliotheken unterschiedlicher Art und Größe, Freiwilligen und unterstützenden Unternehmen weltweit gesponsert [Quelle:koha-community.org](https://koha-community.org/).
 
 Die Installation von Koha ging erstaunlich gut. Ich hatte keine Probleme damit. 
