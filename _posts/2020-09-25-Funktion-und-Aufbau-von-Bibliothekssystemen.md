@@ -56,7 +56,7 @@ Die Einstellungen aus dem [Tutorial](https://zefanjas.de/wie-man-koha-installier
 
 **Edit:** in der dritten Lehreinheit am 2. Oktober 2020 wurde von Felix Lohmeier erklärt warum der Parameter für den Willkommenstext nicht gefunden wurde. Er wurde verschoben in eine andere Kategorie. Wir benutzen eine sehr neue Ubuntu Version (20.04 wars glaubs) und das [Tutorial](https://zefanjas.de/wie-man-koha-installiert-und-fuer-schulen-einrichtet-teil-1/) wurde nicht mit der gleichen Version gemacht. Wenn ich es richtig verstanden habe entstand darum dieser Unterschied. Neu findet man es an einem komplet anderen Ort unter Werkzeuge / Nachrichten / Neuer Eintrag / OpacMainUserBlock. 
 
-<img alt="Willkommensnachricht" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Willkommensnachricht%20koha1.png?raw=true" width="70%"/>
+<img alt="Willkommensnachricht" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/Willkommensnachricht%20koha1.png?raw=true" width="100%"/>
 
 Bei mir hat das jetzt geklappt, nur sehe ich leider nicht wo im Programm jetzt diese (zugegebenermassen sehr minimalistische) Willkomensnachricht steht, bei der erweiterten Suche habe ich sie nicht gefunden, aber ist auch nicht so wichtig. Wenn ich sie dann zufällig finde, freue ich mich dann umso mehr.
 
