@@ -28,8 +28,7 @@ Wir haben eine Übung gemacht und uns die Unterschiede zwischen den Metastandart
 | 1960                              | 1994     |  
 | bibliographisches Dateiformat welches verwendet wird, um bibliographische Daten zwischen verschiedenen Einrichtungen auszutauschen                        | Sammlung an standardisierten Konventionen für eine einfache Beschreibung von Dokumenten und anderen verwandten Objekten im Web mithilfe von bibliographischen Metadaten      | 
 |<img alt="MARC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/MARC21.png?raw=true" width="90%"/> | <img alt="DC" src="https://github.com/stemorit/BAIN-Lerntagebuch/blob/master/_posts/DC.png?raw=true" width="90%"/>|
-| schwierige Tags und Zahlencodes  |  leicht verständliche Namespaces  |
-| schwer verständlich für Menschen ohne Vorkentnisse | einfacher verständlich für Menschen ohne Vorkentnisse|
+| schwer verständlich für Menschen ohne Vorkentnisse da schwierige Tags und Zahlencodes verwendet werden | einfacher verständlich für Menschen ohne Vorkentnisse|
 | wird in Bibliothekssystemen genutzt | wird eher weniger in Bibliothekssystemen genutzt als MARC21|
 
 Quellen: [forschungsdaten.info](https://www.forschungsdaten.info/themen/beschreiben-und-dokumentieren/bibliographische-metadaten/), 2. Unterrichtslektion und Folien.
