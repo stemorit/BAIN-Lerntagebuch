@@ -1,5 +1,5 @@
 ---
-title: "2 Funktion und Aufbau von Bibliothekssystemen"
+title: "3 Funktion und Aufbau von Bibliothekssystemen Teil 2"
 date: 2020-10-02
 ---
 
